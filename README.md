@@ -1,11 +1,11 @@
-國立臺灣大學學生會法規彙編
+元智大學學生會法規彙編
 =======================
-![Generate PDF](https://github.com/ntu-student-congress/tortue/workflows/Generate%20PDF/badge.svg?branch=master)
+![Generate PDF](https://github.com/yzu-student-association/tortue/workflows/Generate%20PDF/badge.svg?branch=main)
 
-這是一個將**國立臺灣大學學生會**法規彙編資料結構化的專案。<br>
+這是一個源自**國立臺灣大學學生會**法規彙編資料結構化的專案。<br>
 專案代號為 **Tortue**，取自**法**文中烏**龜**的單字。<br>
 
-104-1 法規彙編[連結](https://goo.gl/VMq2Gs)
+該專案引用（fork）原程式架構並將其應用至**元智大學學生會**法規彙編資料。
 
 ## 檔案格式
 
