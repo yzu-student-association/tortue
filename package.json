@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ntu-student-congress/tortue.git"
+    "url": "git+https://github.com/yzu-student-association/tortue.git"
   },
   "author": "",
   "license": "gpl-3.0",
   "bugs": {
-    "url": "https://github.com/ntu-student-congress/tortue/issues"
+    "url": "https://github.com/yzu-student-association/tortue/issues"
   },
-  "homepage": "https://github.com/ntu-student-congress/tortue#readme"
+  "homepage": "https://github.com/yzu-student-association/tortue#readme"
 }
